@@ -136,7 +136,7 @@
       "filterable": 1
     },
     {
-      "key": "apiyhzy",
+      "key": "apibdzy",
       "name": "百度云资源",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
