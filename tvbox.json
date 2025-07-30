@@ -137,9 +137,9 @@
     },
     {
       "key": "apiyhzy",
-      "name": "樱花资源",
-      "type": 0,
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/",
+      "name": "百度云资源",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
