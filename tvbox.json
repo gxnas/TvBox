@@ -119,7 +119,7 @@
     },
     {
       "key": "mdzyapi",
-      "name": "魔都资源",
+      "name": "魔都动漫资源",
       "type": 1,
       "api": "https://www.mdzyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
@@ -136,10 +136,10 @@
       "filterable": 1
     },
     {
-      "key": "apibdzy",
-      "name": "百度云资源",
+      "key": "apiyhzy",
+      "name": "樱花资源",
       "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "api": "https://m3u8.apiyhzy.com/api.php/seacms/vod/at/xml/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -182,6 +182,258 @@
       "categories": [
         "短剧"
       ]
+    },
+    {
+      "key": "iqiyizyapi",
+      "name": "爱奇艺资源",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yhzy",
+      "name": "樱花资源",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "qilinzyz",
+      "name": "麒麟资源",
+      "type": 1,
+      "api": "https://www.qilinzyz.com/api.php/provide/vod/?ac=list ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "guangsuapi",
+      "name": "光速资源",
+      "type": 0,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xmm",
+      "name": "小猫咪资源",
+      "type": 1,
+      "api": "http://zy.xmm.hk/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "p2100",
+      "name": "飘零资源",
+      "type": 0,
+      "api": "https://p2100.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "suoniapi",
+      "name": "索尼资源",
+      "type": 0,
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jyzyapi",
+      "name": "金鹰资源",
+      "type": 0,
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "niuniuzy",
+      "name": "牛牛资源",
+      "type": 0,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yayazy",
+      "name": "鸭鸭资源",
+      "type": 1,
+      "api": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ukuapi88",
+      "name": "U酷资源",
+      "type": 1,
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "huyaapi",
+      "name": "虎牙资源",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hhzyapi",
+      "name": "豪华资源",
+      "type": 0,
+      "api": "https://hhzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ckzy",
+      "name": "CK资源",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "gayapi",
+      "name": "【9kg】快播资源",
+      "type": 1,
+      "api": "https://gayapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "apidanaizi",
+      "name": "【9kg】大奶子资源",
+      "type": 0,
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "xingba222",
+      "name": "【9kg】杏吧资源",
+      "type": 0,
+      "api": "https://xingba222.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "xxibaozyw",
+      "name": "【9kg】细胞网资源",
+      "type": 0,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "hsckzy888",
+      "name": "【9kg】黄色仓库资源",
+      "type": 0,
+      "api": "https://hsckzy888.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "siwazyw",
+      "name": "【9kg】丝袜资源",
+      "type": 1,
+      "api": "https://siwazyw.tv/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "semaozy",
+      "name": "【9kg】色猫资源",
+      "type": 0,
+      "api": "https://caiji.semaozy.net/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "jkunzyapi",
+      "name": "【9kg】jkun资源",
+      "type": 0,
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod/at/seaxml/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "apilsbzy1",
+      "name": "【9kg】老色逼资源",
+      "type": 0,
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "slapibf",
+      "name": "【9kg】森林资源",
+      "type": 0,
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "souavzy",
+      "name": "【9kg】搜AV",
+      "type": 1,
+      "api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "155api",
+      "name": "【9kg】155资源",
+      "type": 0,
+      "api": "https://155api.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "apiyutu",
+      "name": "【9kg】玉兔资源",
+      "type": 0,
+      "api": "https://apiyutu.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "bwzyz",
+      "name": "【9kg】百万资源",
+      "type": 0,
+      "api": "https://api.bwzyz.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
     }
   ],
   "lives": [
