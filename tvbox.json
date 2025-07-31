@@ -138,8 +138,8 @@
     {
       "key": "apiyhzy",
       "name": "樱花资源",
-      "type": 1,
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "type": 0,
+      "api": "https://api.apiyhzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
