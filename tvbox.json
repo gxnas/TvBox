@@ -136,15 +136,6 @@
       "filterable": 1
     },
     {
-      "key": "apiyhzy",
-      "name": "樱花资源",
-      "type": 1,
-      "api": "https://api.apiyhzy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "wujinapi",
       "name": "无尽资源",
       "type": 1,
