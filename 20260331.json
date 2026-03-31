@@ -1,0 +1,119 @@
+{
+  "spider": "https://bestyifei.zeabur.app/api/proxy/spider.jar;md5;22f558deceb8273665c00c05d89c4c18",
+  "wallpaper": "https://bestyifei.zeabur.app/logo.png",
+
+  "lives": [],
+
+  "parses": [
+    {
+      "name": "默认解析",
+      "type": 1,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "备用解析",
+      "type": 1,
+      "url": "https://jx.aidouer.net/?url="
+    }
+  ],
+
+  "flags": ["youku","qq","iqiyi","mgtv","bilibili","pptv","le","sohu","xigua"],
+
+  "sites": [
+
+    {
+      "key": "🔥主力-量子",
+      "name": "🔥主力·量子资源",
+      "type": 1,
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "🔥主力-非凡",
+      "name": "🔥主力·非凡资源",
+      "type": 1,
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "🔥主力-暴风",
+      "name": "🔥主力·暴风资源",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+    {
+      "key": "⭐备用-最大",
+      "name": "⭐备用·最大资源",
+      "type": 1,
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "⭐备用-卧龙",
+      "name": "⭐备用·卧龙资源",
+      "type": 1,
+      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "⭐备用-ikun",
+      "name": "⭐备用·iKun资源",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+    {
+      "key": "🎬影视-豆瓣",
+      "name": "🎬影视·豆瓣资源",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "🎬影视-电影天堂",
+      "name": "🎬影视·电影天堂",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+    {
+      "key": "🎥高速-光速",
+      "name": "🎥高速·光速资源",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "🎥高速-极速",
+      "name": "🎥高速·极速资源",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+
+  ]
+}
